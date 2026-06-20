@@ -1,4 +1,4 @@
-# 🚀 CI/CD with GitHub Actions
+# 🚀 CI/CD Using GitHub Actions
 
 ## 📖 Overview
 This project demonstrates Continuous Integration (CI) using GitHub Actions. The workflow automatically triggers whenever code is pushed to the repository and executes a Python script.
