@@ -37,6 +37,9 @@ Hello GitHub Actions
 -  Automated code execution on every push
 -  Improved software delivery process
 
+  ## Workflow
+Push Code → GitHub Actions Triggered → Python Setup → Run Application → Success
+
 ## 📸 Project Result
  - Workflow Executed Successfully  
  - Build Passed  
